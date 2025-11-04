@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ReUseApp",
+    "slug": "reuseapp",
+    "version": "1.0.0",
+    "jsEngine": "jsc",
+    "android": {
+      "package": "com.anonymous.reuseapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.reuseapp"
+    },
+    "plugins": [
+      "expo-barcode-scanner"
+    ]
+  }
+}
